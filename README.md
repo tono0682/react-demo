@@ -2,7 +2,7 @@
 This project is a demonstration of a web page built using React. The aim of the task is to demonstrate knowledge of basic react skills and responsive design. 
 
 **Link to project:** 
-[Live Link](https://vercel.com/tono0682/react-demo/FJYMoqB6TRbTg6WSsA6ZjxdKp3bU)
+[Live Link](https://react-demo-kappa-sandy.vercel.app/) 
 
 ![Application Screenshot](/Document/react-demo-screenshot.png)
 
