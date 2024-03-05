@@ -136,4 +136,11 @@
         -webkit-line-clamp: 4; 
         text-align: start;
     }
+    .hero-content{
+        max-width: 760px;
+        padding: 1.5em 1em;
+    }
+    .hero-content p {
+        line-height: 1.2em;
+    }
 }
